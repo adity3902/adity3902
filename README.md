@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Aditya
+- 👋 Hi, I’m Aditya Singh
 - 👀 I’m passionate about web technologies.
 - 🌱 I’m currently learning JavaScript and diving deeper into modern frameworks.
-- 💞 I’m open to collaborating on freelance projects and creative ventures on platforms like Fiverr and Canva.
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/aditya-singh-7481ab265/)
+- 💼 I’m eager to collaborate on freelance projects and creative ventures via platforms like Fiverr and Canva, bringing innovative web solutions to life.
+- 🔍 Always on the lookout for new challenges that push my coding skills further and broaden my tech stack.
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/aditya-singh-7481ab265/) for potential collaborations or just to chat about all things tech!
